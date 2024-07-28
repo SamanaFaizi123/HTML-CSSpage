@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body{
     background-image: url(Jowhareh_galleries_3_poster_93587ecf-b385-4b1b-916b-06a1901e8309\ \(1\).jpeg);
