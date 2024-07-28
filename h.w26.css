@@ -10,9 +10,9 @@ body{
 }div{
     position: relative;
     width:1300px;
-    height: 132vh;
+    height: 130vh;
    top: 200px;
-   left: 20px;
+   left: 21px;
     transform: translate(-50%,-50%);
     background-color: #ffffff10;
     backdrop-filter: blur(5px);
